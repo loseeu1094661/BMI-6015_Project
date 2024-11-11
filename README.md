@@ -13,7 +13,7 @@ Model Training and Evaluation: Train and evaluate supervised/unsupervised models
 
 
 (20 points): Use 3+ supervised ML models covered in class.
-Daxton
+Daxton (Logistic Regression, Decision Tree, SVM)
 
 (15 points): Use 3+ unsupervised ML models covered in class.
 Nathan (PCA, K-means, anomaly deetection)
