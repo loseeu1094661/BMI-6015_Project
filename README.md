@@ -3,7 +3,7 @@ Daxton/Nathan ML Project
 
 Project tasks division:
 (15 points): Prepare the data, including feature vectorization, handling missing data, and addressing imbalances.
-Nathan
+Nathan (Almost done, want to look into outlier detection/removal as well)
 
 (10 points): Explore the data using descriptive statistics and visualizations to understand the data and explore correlations between its features.
 Daxton
@@ -16,7 +16,7 @@ Model Training and Evaluation: Train and evaluate supervised/unsupervised models
 Daxton (Logistic Regression, Decision Tree, SVM)
 
 (15 points): Use 3+ unsupervised ML models covered in class.
-Nathan (PCA, K-means, anomaly deetection)
+Nathan (PCA, K-means, anomaly deetection) (just do an anomoly detecction then I am done.)
 
 (5 points): Implement validation techniques like K-fold cross-validation.
 Daxton (Class example using k-nearest neighbors (Supervised Learning))
@@ -28,7 +28,7 @@ Both? Will see what this is
 Daxton
 
 (5 points): Organize steps using pipelines.
-Both will implement within the models
+Both will implement within the models, especially the supervised learning models.
 
 (10 points): Use SHAP to explain and interpret the obtained results.
 Both? Will see what this is
